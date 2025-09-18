@@ -16,6 +16,8 @@ My toolkit includes an array of technologies and tools, such as:
 - Node.js
 - Mongo DB
 - Express
+- AI
+- Python
 - Git
 - and more!
 
